@@ -20,6 +20,8 @@ body{
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  background: linear-gradient(264deg,#df8908 10%,
+  #b415ff 100%);;
 }
 .btn img{
   width:20px;

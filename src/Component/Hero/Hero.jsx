@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className='hero'>
       <div className='hero-text'>
-        <h1>If you can imagine it , we can
+        <h1> <span>If you can imagine it </span>, we can
           <br /> build it.</h1>
         <p>We are a people-oriented,progressive business,
           driven by our values to deliver and lasting change for 

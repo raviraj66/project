@@ -16,10 +16,22 @@
 .hero-text h1{
     font-size: 60px;
     font-weight: 600;
+    color:aqua;
 }
 .hero-text p{
     font-size: 20px;
     max-width: 700px;
     margin: 10px auto 20px;
     line-height: 1.4;
+    color:thistle;
+    font-weight: 300;
+}
+.hero-text h1 span{
+    background:linear-gradient(270deg,#df8908 10%,
+    #b415ff 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+
 }
