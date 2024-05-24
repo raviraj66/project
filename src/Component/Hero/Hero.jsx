@@ -4,7 +4,7 @@ import dark_arrow from '../../assets/dark-arrow.png'
 
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div  id= 'home' className='hero'>
       <div className='hero-text'>
         <h1> <span>If you can imagine it </span>, we can
           <br /> build it.</h1>
